@@ -21,6 +21,38 @@ namespace _29092022SolutionArrays
         private void CreateDoubleTriangle()
         {
             int counter = 1;
+            if(RowsLength > ColumnsLength)
+            {
+                for (int i = 0; i < RowsLength; i++)
+                {
+                    for (int j = i; j < ColumnsLength; j++)
+                    {
+                        arr[i, j] = counter;
+                        counter++;
+                    }
+                }
+                for (int i = RowsLength - 1; i > 0; i--)
+                {
+                    if(i < ColumnsLength )
+                    {
+                        for (int j = i - 1; j >= 0; j--)
+                        {
+                            arr[i, j] = counter;
+                            counter++;
+                        }
+                    }
+                    else
+                    {
+                        for (int j = ColumnsLength - 1; j >= 0; j--)
+                        {
+                            arr[i, j] = counter;
+                            counter++;
+                        }
+                    }
+                }
+                return;
+            }
+
             for (int i = 0; i < RowsLength; i++)
             {
                 for (int j = i; j < ColumnsLength; j++)
@@ -29,6 +61,7 @@ namespace _29092022SolutionArrays
                     counter++;
                 }
             }
+
             for (int i = RowsLength - 1; i > 0; i--)
             {
                 for (int j = i - 1; j >= 0; j--) 

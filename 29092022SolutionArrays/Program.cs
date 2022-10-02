@@ -10,7 +10,7 @@ namespace _29092022SolutionArrays
     {
         static void Main(string[] args)
         {
-            DoubleTriangleArray arar = new DoubleTriangleArray(5, 5);
+            DoubleTriangleArray arar = new DoubleTriangleArray(5, 3);
             arar.ShowArray();
             Console.ReadLine();
         }
