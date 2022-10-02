@@ -1,0 +1,8 @@
+C:\Users\CoyMender\source\repos\29092022SolutionArrays\29092022SolutionArrays\bin\Debug\29092022SolutionArrays.exe.config
+C:\Users\CoyMender\source\repos\29092022SolutionArrays\29092022SolutionArrays\bin\Debug\29092022SolutionArrays.exe
+C:\Users\CoyMender\source\repos\29092022SolutionArrays\29092022SolutionArrays\bin\Debug\29092022SolutionArrays.pdb
+C:\Users\CoyMender\source\repos\29092022SolutionArrays\29092022SolutionArrays\obj\Debug\29092022SolutionArrays.csproj.AssemblyReference.cache
+C:\Users\CoyMender\source\repos\29092022SolutionArrays\29092022SolutionArrays\obj\Debug\29092022SolutionArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\CoyMender\source\repos\29092022SolutionArrays\29092022SolutionArrays\obj\Debug\29092022SolutionArrays.csproj.CoreCompileInputs.cache
+C:\Users\CoyMender\source\repos\29092022SolutionArrays\29092022SolutionArrays\obj\Debug\29092022SolutionArrays.exe
+C:\Users\CoyMender\source\repos\29092022SolutionArrays\29092022SolutionArrays\obj\Debug\29092022SolutionArrays.pdb
